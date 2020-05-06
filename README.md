@@ -18,7 +18,7 @@ marquee{
     font-family: fantasy;
     color: midnightblue;
     font-size: 50px;
-}</style></head> 
+}</style>
  <body> 
   <img src="https://i.ibb.co/vBGWJ8r/20200502-001522-0000.png" alt="20200502-001522-0000" width="100%"> 
   <h1>My Mum</h1> 
