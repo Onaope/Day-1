@@ -14,6 +14,9 @@ img{
    
     border: strong;
 }
+p{
+    font-size: 20px;
+}
 marquee{
     font-family: fantasy;
     color: midnightblue;
@@ -24,10 +27,10 @@ marquee{
   <h1>My Mum</h1> 
   <div> 
    <img src="https://i.ibb.co/hLXHfBV/mum.jpg" alt="mum" border="0" height="500px" width="100%"> 
-   <br>My mum is no ordinary woman, she is my best friend,my caretaker, my guardian, my buddy, everything. In every step of my life, she supported and encouraged me. Day and night, she was always there for me. No matter the circumstances, she stood by me. Furthermore, her every work, persistence, devotion, dedication, conduct is an inspiration for me. She is so special to me. 
+   <br><p>My mum is no ordinary woman, she is my best friend,my caretaker, my guardian, my buddy, everything. In every step of my life, she supported and encouraged me. Day and night, she was always there for me. No matter the circumstances, she stood by me. Furthermore, her every work, persistence, devotion, dedication, conduct is an inspiration for me. She is so special to me.</p> 
    <br> 
    <img src="https://i.ibb.co/VQZrx80/20200502-002400-0000.png" alt="20200502-002400-0000" height="500px" width="100%"> 
-   <br> I love her not because she is my mother and we should respect our elders, I love her because she took care of me when no one stood by me. At that time, she took care of all my needs when I wasn’t able to move, speak or act. She was there. She taught me how to walk, speak, and take care of myself. Similarly, every bigger step that I have taken in my life is all because of my mother. If she didn't teach me how to take small steps then, I wouldn't be able to take these bigger steps now. 
+   <br><p>I love her not because she is my mother and we should respect our elders, I love her because she took care of me when no one stood by me. At that time, she took care of all my needs when I wasn’t able to move, speak or act. She was there. She taught me how to walk, speak, and take care of myself. Similarly, every bigger step that I have taken in my life is all because of my mother. If she didn't teach me how to take small steps then, I wouldn't be able to take these bigger steps now.</p> 
   </div> 
   <marquee>
     THANK YOU, MUM. GOD BLESS YOU. 
