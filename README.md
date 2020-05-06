@@ -1,5 +1,4 @@
-<!doctype html><html><head> 
- <style type="text/css" id="dcoder_stylesheet">h1{
+<style type="text/css" id="dcoder_stylesheet">h1{
     font-size: 70px;
     font-family: cursive;
     color: mediumvioletred;
@@ -34,4 +33,4 @@ marquee{
     THANK YOU, MUM. GOD BLESS YOU. 
   </marquee> 
  
-</body></html>
+
